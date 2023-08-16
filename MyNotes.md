@@ -14,3 +14,4 @@ openai.api_key  = os.environ['OPENAI_API_KEY']
 
 
 - **Chain of Thought Reasoning** => Give the model time to think
+- **Chaining Prompts** => Break down complex tasks
