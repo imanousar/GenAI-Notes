@@ -13,7 +13,9 @@ openai.api_key  = os.environ['OPENAI_API_KEY']
 ```
 
 
-- **Chain of Thought Reasoning** => Give the model time to think
+- **Chain of Thought Reasoning** => Give the model time to think (for model with ~100B parameters)
+- **Zero Shot Chain of Thought** => Appending the words "Let's think step by step." to the end of a question
+- **Self-consistency** => Ask a model the same prompt multiple times & take the majority result as the final answer
 - **Chaining Prompts** => Break down complex tasks
 
 
