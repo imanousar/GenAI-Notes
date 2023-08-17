@@ -13,6 +13,6 @@
 |[Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ))| ✖️|
 
 
-### TODO - More resources 
+### More resources 
 - [Learn Prompting](https://learnprompting.org/docs/intro) 
 - [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
