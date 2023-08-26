@@ -24,3 +24,15 @@ openai.api_key  = os.environ['OPENAI_API_KEY']
 <p align="center">
   <img src ="img/loader_options.png" width = "500"   height="450" title="photo">  
 </p>
+
+
+## Set OPENAI_API_KEY var for win10
+1. Launch “Control Panel”
+2. “System”
+3. “Advanced system settings”
+4. Switch to “Advanced” tab
+5. “Environment variables”
+6. Choose “User Variable” (for just you since any other accounts on your system could access System Variables)
+7.To add a new environment variable: Choose “New”
+8. Enter the variable name “OPENAI_API_KEY” and the actual API string then save it.
+9. You need to RE-START the Python interactive session if you have it running on your system for the new setting to take effect.
