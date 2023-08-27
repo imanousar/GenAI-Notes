@@ -6,9 +6,9 @@
 |ChatGPT Prompt Engineering for Developers|✔️|
 |Building Generative AI Applications with Gradio | ✖️ |
 |Evaluating and Debugging Generative AI|✔️|
-|LangChain Chat with Your Data | ✔️ |
+|LangChain Chat with Your Data | ✔️|
 |LangChain for LLM Application Development|✔️|
-|[LangChain - Udemy](https://www.udemy.com/course/langchain-with-python-bootcamp/) | 📈|
+|[LangChain - Udemy](https://www.udemy.com/course/langchain-with-python-bootcamp/) | ✔️ |
 |[Generative AI with Large Language Models - Coursera](https://www.coursera.org/learn/generative-ai-with-llms?utm_campaign=WebsiteCoursesGAIA&utm_medium=institutions&utm_source=deeplearning-ai)|  ✖️ |
 |[Introduction to Generative AI - Google Cloud](https://www.cloudskillsboost.google/course_templates/536)|✖️|
 |[Large Language Models with Semantic Search](https://learn.deeplearning.ai/large-language-models-semantic-search/lesson/1/introduction)| ✖️|
