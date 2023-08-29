@@ -4,7 +4,7 @@
 | ----------- | ----------- |
 |Building Systems with the ChatGPT API | ✔️ |
 |ChatGPT Prompt Engineering for Developers|✔️|
-|Building Generative AI Applications with Gradio | ✖️ |
+|Building Generative AI Applications with Gradio | ✔️ |
 |Evaluating and Debugging Generative AI|✔️|
 |LangChain Chat with Your Data | ✔️|
 |LangChain for LLM Application Development|✔️|
